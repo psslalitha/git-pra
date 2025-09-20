@@ -1,9 +1,0 @@
-git init
-git clone link
-cd repo
-git add .
-git status
-git commit -m "msg"
-git push
-git fetch
-git pull
