@@ -1,0 +1,7 @@
+git branch -a
+git branch
+git branch name
+git branch -b name
+git checkout name
+git merge
+git rebase
